@@ -1,5 +1,5 @@
 /**
- * Mary Gooneratne
+ * 
  * Child of cell class
  * Main cell agent in the Segregation model and SegregatioGrid
  */
