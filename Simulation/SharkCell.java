@@ -1,4 +1,4 @@
-/** Mary Gooneratne
+/** 
  * SharkCell inherits from Cell and predator cell and is one of the main cells of WaTorWorld model
  */
 package simulation;
