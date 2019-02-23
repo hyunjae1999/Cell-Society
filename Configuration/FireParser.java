@@ -12,7 +12,6 @@ import javax.xml.parsers.ParserConfigurationException;
 import java.io.File;
 import java.io.IOException;
 /*
-@author - Hyunjae Lee
 This class is a parser for parsing the parameters of the spreading fire simulation
  */
 public class FireParser extends Parser{
