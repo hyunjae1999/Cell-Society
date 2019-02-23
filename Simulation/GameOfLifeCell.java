@@ -1,4 +1,4 @@
-/** Mary Gooneratne
+/** 
  * Child class of Cell and part of the Game of Life model, can be POPULATED or UNPOPULATED
  */
 package simulation;
