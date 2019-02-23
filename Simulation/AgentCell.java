@@ -1,4 +1,4 @@
-/** Mary Gooneratne
+/** 
  * AgentCell of SugarScape
  */
 
