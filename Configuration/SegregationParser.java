@@ -55,7 +55,6 @@ import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 /*
-@author-Hyunjae Lee
 Parser for Segregation simulation
  */
 public class SegregationParser extends Parser{
