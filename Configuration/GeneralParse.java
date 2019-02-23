@@ -1,7 +1,6 @@
 package Configuration;
 
 /*
-@author - Hyunjae Lee
 This is the main parser class that can parse all different types of simulation xml files.
  */
 
