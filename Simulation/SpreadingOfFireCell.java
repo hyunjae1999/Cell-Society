@@ -1,4 +1,4 @@
-/** Mary Gooneratne
+/**
  * Child of abstract class Cell
  * Main class used as cell in Spreading of fire model along with SpreadingOFFiregrid
  */
