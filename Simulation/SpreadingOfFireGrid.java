@@ -1,5 +1,5 @@
 /**
- * Mary Gooneratne
+ * 
  * Child of CellGrid class
  * Responsible for simulation of Spreading of Fire CA
  */
