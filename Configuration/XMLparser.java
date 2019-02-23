@@ -15,7 +15,6 @@ import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 /*
-@author-Hyunjae Lee
 Class for parser that parses common elements for all xml documents like author, rows, columns, simulation type.
  */
 public class XMLparser extends Parser{
