@@ -12,7 +12,6 @@ import javax.xml.parsers.ParserConfigurationException;
 import java.io.File;
 import java.io.IOException;
 /*
-@author-Hyunjae Lee
 This is an abstract class for a general parser that takes filename, and initializes the document objects needed to parse any xml file.
  */
 public abstract class Parser {
