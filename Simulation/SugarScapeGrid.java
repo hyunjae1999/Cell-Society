@@ -1,5 +1,5 @@
 /**
- * Mary Gooneratne
+ * 
  * Grid for SugarScape model
  * Child of CellGrid class
  */
