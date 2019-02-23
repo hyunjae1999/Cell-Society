@@ -1,4 +1,4 @@
-/** Mary Gooneratne
+/** 
  * The main class to run the Game of Life simulation, extends the CellGrid
  */
 package simulation;
