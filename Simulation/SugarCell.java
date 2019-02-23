@@ -1,4 +1,4 @@
-/** Mary Gooneratne
+/** 
  * Child of abstract cell class
  * One of two cells used in SugarScape model
  */
