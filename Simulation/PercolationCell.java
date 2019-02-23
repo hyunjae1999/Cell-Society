@@ -1,5 +1,5 @@
 /**
- * Mary Gooneratne
+ * 
  * Child of abstract Cell class
  * Cell class used for Percolation model with PercolationGrid
  */
