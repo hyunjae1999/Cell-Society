@@ -1,5 +1,5 @@
 /**
- * Mary Gooneratne
+ * 
  * CellGrid class acts as a a parent class for all models that have their own CellGrid child
  */
 package simulation;
