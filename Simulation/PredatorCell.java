@@ -1,5 +1,5 @@
 /**
- * Mary Gooneratne
+ *
  * Child of cell class
  * Parent of shark and fish cell classes
  * Used as predator cells in WaTorWorld simulation
