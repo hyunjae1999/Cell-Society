@@ -1,4 +1,4 @@
-/** Mary Gooneratne
+/** 
  * Abstract Cell class that acts as parent class for all Cells of the models
  */
 package simulation;
