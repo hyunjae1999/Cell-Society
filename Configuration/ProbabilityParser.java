@@ -16,7 +16,6 @@ import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 /*
-@author-Hyunjae Lee
 Parser for Game Of Life
  */
 public class ProbabilityParser extends Parser{
