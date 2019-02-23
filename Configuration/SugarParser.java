@@ -1,7 +1,6 @@
 package Configuration;
 import org.w3c.dom.*;
 /*
-@author-Hyunjae Lee
 Parser for SugarScape simulation
  */
 public class SugarParser extends Parser{
