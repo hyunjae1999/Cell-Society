@@ -12,7 +12,6 @@ import javax.xml.parsers.ParserConfigurationException;
 import java.io.File;
 import java.io.IOException;
 /*
-@author-Hyunjae Lee
 Parser for Percolation
  */
 public class PercolationParser extends Parser{
