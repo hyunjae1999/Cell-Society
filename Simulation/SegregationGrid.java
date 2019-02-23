@@ -1,5 +1,5 @@
 /**
- * Mary Gooneratne
+ *
  * Grid class for Segregation model
  * Child of CellGrid
  */
