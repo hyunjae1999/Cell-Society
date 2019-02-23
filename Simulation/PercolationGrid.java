@@ -1,5 +1,5 @@
 /**
- * Mary Gooneratne
+ * 
  * Child of abstract CellGrid class
  * Utilizes Percolation cell to create and step simulation of Percolation
  */
