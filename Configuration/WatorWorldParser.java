@@ -68,7 +68,6 @@ import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 /*
-@author - Hyunjae Lee
 Class for parser for WatorWorld Simulation
  */
 public class WatorWorldParser extends Parser{
