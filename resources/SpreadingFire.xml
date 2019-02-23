@@ -1,0 +1,19 @@
+<?xml version= "1.0" encoding = "UTF-8"?>
+<config>
+    <Simulation>
+        <type>SpreadingFire</type>
+        <title>SpreadingFire</title>
+        <author>Hyunjae Lee</author>
+        <rows>50</rows>
+        <columns>50</columns>
+    </Simulation>
+
+
+    <probability>
+        <prob>0.6</prob>
+        <numTree>2500</numTree>
+        <numBurn>100</numBurn>
+    </probability>
+
+
+</config>
