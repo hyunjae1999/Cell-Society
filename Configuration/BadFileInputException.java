@@ -1,6 +1,5 @@
 package Configuration;
 /*
-@author - Hyunjae Lee
 This is a class for an exception that is thrown if a wrong type of file is inputted into the parser.
  */
 public class BadFileInputException extends Exception {
